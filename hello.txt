@@ -3,3 +3,4 @@ I am dangerous
 Stop showing up
 
 3/9/2025 practicing
+I did it again on the same day to check if git is still accessiable after shutting down my laptop
